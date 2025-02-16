@@ -2,10 +2,11 @@ Mental Illnesses vs Obesity
 A data analytics project attempting to correlate commonalities between people with mental illnesses such as panic or anxiety attacks and obesity. The project contains three csv files, which were pulled from Kaggle.com. The links and datasets can be found in the Data section of the README. 
 
 Questions to answer:
-*Does gender have an affect on the likelyhood of having obesity or anxiety/panic attacks? Does it differ between genders?
-*What age groups have the highest rates?
-*Does exercise affect mental illnesses or obesity?
-*Are smokers more likely to be obese or have mental illnesses?
+1. Does gender influence the likelihood of having obesity or anxiety/panic attacks? Does it differ between genders?
+2. What age groups have the highest rates?
+3. Does exercise affect mental illnesses or obesity?
+4. Are smokers more likely to be obese or have mental illnesses?
+
 
 
 Data:
@@ -22,4 +23,11 @@ Instructions:
 2. Refer to requirements.txt
 3. Ensure modules are installed and Python is updated to at least version 3.13.0
 4. Open and run .ipynb file. 
+
+Resources used to solve problems throughout project:
+https://stackoverflow.com/questions/52335970/how-to-fix-syntaxwarning-invalid-escape-sequence-in-python
+https://www.geeksforgeeks.org/working-with-missing-data-in-pandas/
+https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-columns-in-pandas-dataframe/ 
+https://www.geeksforgeeks.org/how-to-rename-columns-in-pandas-dataframe/ 
+https://www.youtube.com/watch?v=TPivN7tpdwc&ab_channel=AlexTheAnalyst 
 
