@@ -29,5 +29,7 @@ https://stackoverflow.com/questions/52335970/how-to-fix-syntaxwarning-invalid-es
 https://www.geeksforgeeks.org/working-with-missing-data-in-pandas/
 https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-columns-in-pandas-dataframe/ 
 https://www.geeksforgeeks.org/how-to-rename-columns-in-pandas-dataframe/ 
-https://www.youtube.com/watch?v=TPivN7tpdwc&ab_channel=AlexTheAnalyst 
+https://www.geeksforgeeks.org/how-to-use-not-in-filter-in-pandas/ 
+https://www.youtube.com/watch?v=TPivN7tpdwc&ab_channel=AlexTheAnalyst
+
 
