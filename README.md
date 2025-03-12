@@ -31,5 +31,8 @@ https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-columns-in-pandas-data
 https://www.geeksforgeeks.org/how-to-rename-columns-in-pandas-dataframe/ 
 https://www.geeksforgeeks.org/how-to-use-not-in-filter-in-pandas/ 
 https://www.youtube.com/watch?v=TPivN7tpdwc&ab_channel=AlexTheAnalyst
+https://www.deeplearningnerds.com/pandas-add-an-id-column-to-a-dataframe/ 
+https://www.geeksforgeeks.org/how-to-merge-multiple-dataframes-in-pandas/
+https://www.w3schools.com/python/matplotlib_pie_charts.asp
 
 
