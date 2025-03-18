@@ -34,5 +34,9 @@ https://www.youtube.com/watch?v=TPivN7tpdwc&ab_channel=AlexTheAnalyst
 https://www.deeplearningnerds.com/pandas-add-an-id-column-to-a-dataframe/ 
 https://www.geeksforgeeks.org/how-to-merge-multiple-dataframes-in-pandas/
 https://www.w3schools.com/python/matplotlib_pie_charts.asp
+https://www.geeksforgeeks.org/create-a-stacked-bar-plot-in-matplotlib/ 
+https://www.pythoncharts.com/matplotlib/stacked-bar-charts-labels
+https://matplotlib.org/stable/gallery/lines_bars_and_markers/bar_stacked
+https://www.geeksforgeeks.org/create-a-stacked-bar-plot-in-matplotlib/ 
 
 
