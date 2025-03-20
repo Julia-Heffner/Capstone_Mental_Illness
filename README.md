@@ -38,5 +38,6 @@ https://www.geeksforgeeks.org/create-a-stacked-bar-plot-in-matplotlib/
 https://www.pythoncharts.com/matplotlib/stacked-bar-charts-labels
 https://matplotlib.org/stable/gallery/lines_bars_and_markers/bar_stacked
 https://www.geeksforgeeks.org/create-a-stacked-bar-plot-in-matplotlib/ 
+https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.pie 
 
 
