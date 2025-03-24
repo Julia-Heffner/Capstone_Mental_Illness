@@ -4,8 +4,7 @@ A data analytics project attempting to correlate commonalities between people wi
 Questions to answer:
 1. Does gender influence the likelihood of having obesity or anxiety/panic attacks? Does it differ between genders?
 2. What age groups have the highest rates?
-3. Does exercise affect mental illnesses or obesity?
-4. Are smokers more likely to be obese or have mental illnesses?
+3. Are smokers more likely to be obese or have mental illnesses?
 
 
 
