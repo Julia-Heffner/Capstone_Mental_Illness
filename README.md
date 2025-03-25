@@ -24,7 +24,7 @@ The project is organized as follows:
 
 ### Features Utilized for this project
 |Feature   |Description   |
-|-------   |-----------   |
+|:-------:   |:-----------:   |
 |Read 3 data files   | Used 3 CSV files from Kaggle   |
 |Clean and Merge Data   | Cleaned and merged data with Pandas. Then calculated stats for various data points  |
 |Create 3 visualizations    | Created 3 visualizations using Matplotlib and Seaborn   |
@@ -52,7 +52,7 @@ folder in GitBash/Terminal.
 Virtual Environment Commands
 
 | Command | Linux/Mac | GitBash |
-|---------|-----------|---------|
+|:---------:|:-----------:|:---------:|
 | Create | `python3 -m venv venv` | `python -m venv venv` |
 | Activate | `source venv/bin/activate` | `source venv/Scripts/activate` |
 | Install | `pip install -r requirements.txt` | `pip install -r requirements.txt` |
