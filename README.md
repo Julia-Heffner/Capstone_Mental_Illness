@@ -37,7 +37,7 @@ The project is organized as follows:
 ## Getting Started:
 To run this project, follow these steps:
 1. Clone the repository: `https://github.com/Julia-Heffner/Capstone_Mental_Illness.git`
-2. Create a virtual environment with which to run the Jupyter Notebook.
+2. Create a virtual environment with which to run the Jupyter Notebook - See instructions below.
 3. Install the necessary dependencies: `pip install -r requirements.txt`
 4. Open and run .ipynb file. 
 
